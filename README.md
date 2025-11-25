@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋 ##
 
-<!--
-**0xebby/0xebby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a stoked smart contract dev who's excited about the blockchain and zero broken promises that smart contracts ensures. A privacy maxi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+Languages : Solidity, Rust(tentative), JavaScript, Kotlin
+Frameworks: Foundry, slither, aderyn, viem, etherjs, wagmi,
+Fun Fact: I think bitcoin will get to $1M one day.
+
+## Reach Me ##
+Twitter: https://x.com/0xebby_
+
+## reach out let's build cool stuff collaboratively! ##
