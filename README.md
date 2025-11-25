@@ -9,9 +9,9 @@ Languages : Solidity, Rust(tentative), JavaScript, Kotlin
 
 Frameworks: Foundry, slither, aderyn, viem, etherjs, wagmi,
 
-# Fun Fact: I beleive bitcoin will get to $1M one day.
+# Fun Fact: I believe bitcoin will get to $1M one day.
 
 ## Reach Me ##
 Twitter: https://x.com/0xebby_
 
-## reach out let's build cool stuff collaboratively! ##
+## reach out let's build cool stuff! ##
