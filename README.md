@@ -12,6 +12,6 @@ Frameworks: Foundry, slither, aderyn, viem, etherjs, wagmi,
 # Fun Fact: I believe bitcoin will get to $1M one day.
 
 ## Reach Me ##
-Twitter: https://x.com/0xebby_
+Twitter: https://x.com/_mystic0x
 
 ## reach out let's build cool stuff! ##
