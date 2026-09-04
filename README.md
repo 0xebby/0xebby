@@ -5,9 +5,11 @@ I'm a stoked smart contract dev who's excited about the blockchain and zero brok
 
 ## 🔧 Tech Stack ##
 
-Languages : Solidity, Rust(tentative), JavaScript, Kotlin
+Languages : Solidity, Rust(tentative), JavaScript, Kotlin, typescript, bash
 
 Frameworks: Foundry, slither, aderyn, viem, etherjs, wagmi,
+
+Automation: Claude opus 5, github co-pilot, kimi, chatgpt
 
 # Fun Fact: I believe bitcoin will get to $1M one day.
 
