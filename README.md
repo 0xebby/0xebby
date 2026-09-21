@@ -72,8 +72,8 @@
 - ETHGLOBAL ONLINE 2026 - Built Boneyard on the Continuity Track
   [Project Page](https://ethglobal.com/showcase/boneyard-w7qj6)
 
-- RUNTIME NYC ONLINE by Bankrbot 2026 - Built Tradepie. Full project description and   live product link above 
-  [Project Page](https://runtime.nyc/handbook)
+- RUNTIME NYC ONLINE by Bankrbot 2026 - Built Tradepie. Full project description and   live product link
+  [above](https://github.com/0xebby#-projects--proof-of-work)
 
 - CRYPTO WORLD'S FAIR by COLOSSEUM, 2026 - Built Boneyard on the Continuity Track
   [Project Page](https://colosseum.com/arena/projects/boneyard)
