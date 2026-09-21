@@ -46,6 +46,12 @@
   Each vault can be paired with a trading agent, either in-house or externally sourced(e.g.           from Bankr Agent Place), which analyzes market and onchain data, proposes trades, and               operates within predefined risk mandates set at pie creation and visible to all contributors.
     🔗 [GitHub](https://github.com/0xebby/Tradepie/tree/feat/tradepie-mvp) | 🚀 [Live Demo                 (Testnet)](https://boney-yard.netlify.app/](https://tradepie.netlify.app/))
 
+- 🔁 Foop
+
+  I built Foop Dev Tool:
+  On-chain workload runner for blockchain devs. Define, simulate, and execute repeatable, throw-away transaction workloads without writing one-off scripts or manually signing transactions.
+  🔗 [GitHub](https://github.com/0xebby/foop)
+
 - ⚒️ Speedrun Ethereum
   
   Built full-stack Ethereum applications through hands-on challenges covering DEXs, lending,          stablecoins, prediction markets, and ZK voting.
