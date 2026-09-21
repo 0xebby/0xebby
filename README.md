@@ -22,10 +22,10 @@
 ![Kimi](https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
-## Reach Me ##
+## Reach Out and Connect with Me ##
 ![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)
 
-## Projects & Proof of Work ##
+## 🛠 Projects & Proof of Work ##
 - 🦴 Boneyard
 
   I built Boneyard, an On-chain growth marketplace that pays promoters for verified project-set       KPIs. Powered by the Boney Protocol smart contracts: a project locks a reward pool in a vault,      declares what counts as progress, and the vault pays promoters automatically as verified,           attributed progress crosses thresholds. Nobody approves a payout. Nobody can move the goalposts     after the work is done.
@@ -49,10 +49,31 @@
 - ⚒️ Speedrun Ethereum
   
   Built full-stack Ethereum applications through hands-on challenges covering DEXs, lending,          stablecoins, prediction markets, and ZK voting.
+  🔗 [Builder Profile]
 
 - 🛡️ OpenZeppelin Ethernaut
   
   Solved 20 of 41 Ethernaut challenges.
-  🔗 GitHub
+  🔗 [GitHub](https://github.com/0xebby/Tradepie/tree/feat/tradepie-mvp)
+  
+- 🎓 Cyfrin Updraft
+  
+  Completed the Foundry Fundamentals, Advanced Foundry, and Web3 Wallet Security       courses.
+   🔗 [Cyfrin Profile](https://profiles.cyfrin.io/u/ebby)
 
+## 🏆 Hackathons & Awards ##
+
+- ETHGLOBAL ONLINE 2026 - Built Boneyard on the Continuity Track
+  [Project Page](https://ethglobal.com/showcase/boneyard-w7qj6)
+
+- RUNTIME NYC ONLINE by Bankrbot 2026 - Built Tradepie. Full project description and   live product link above 
+  [Project Page](https://runtime.nyc/handbook)
+
+- CRYPTO WORLD'S FAIR by COLOSSEUM, 2026 - Built Boneyard on the Continuity Track
+  [Project Page](https://colosseum.com/arena/projects/boneyard)
+
+- OPEN HOUSE HACH by ARBITRUM 2026 - Built Boneyard on the Continuity Track
+  [Project Page](https://arbitrum-singapore.hackquest.io/projects/boneyard)
+  
 ## reach out let's build cool stuff! ##
+
