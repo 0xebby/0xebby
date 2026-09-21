@@ -34,8 +34,17 @@
 - 📦 RaiseBox
   
   I built Raisebox: a Milestone-based decentralized crowdfunding with enforceable, on-chain           accountability.
-  RaiseBox is a permissionless crowdfunding protocol that replaces trust with verifiable rules —      funds are not released because a project owner claims progress, but because contributors            collectively approve milestones on-chain. RaiseBox enables creators to raise capital                transparently while giving contributors real control over how and when funds are released.
-  🔗 [GitHub](https://github.com/0xebby/raisebox/tree/RAISEBOXV2B-BACKUP) 
+  RaiseBox is a permissionless crowdfunding protocol that replaces trust with verifiable rules:       funds are not released because a project owner claims progress, but because contributors            collectively approve milestones on-chain.
+  RaiseBox enables creators to raise capital transparently while giving contributors real control     over how and when funds are released.
+  🔗 [GitHub](https://github.com/0xebby/raisebox/tree/RAISEBOXV2B-BACKUP)
+
+- 🥧 Tradepie
+  
+  I built Tradepie: Crowdfund a trading agent, split the risk and the pie.
+  Tradepie is a permissioned capital-allocation protocol for autonomous trading agents.
+  Contributors pool capital into Tradepie vaults and receive proportional shares representing their   ownership.
+  Each vault can be paired with a trading agent, either in-house or externally sourced(e.g.           from Bankr Agent Place), which analyzes market and onchain data, proposes trades, and               operates within predefined risk mandates set at pie creation and visible to all contributors.
+   🔗 [GitHub](https://github.com/0xebby/Tradepie/tree/feat/tradepie-mvp) | 🚀 [Live Demo                 (Testnet)](https://boney-yard.netlify.app/](https://tradepie.netlify.app/))
 
 - ⚒️ Speedrun Ethereum
   
