@@ -44,12 +44,12 @@
   Tradepie is a permissioned capital-allocation protocol for autonomous trading agents.
   Contributors pool capital into Tradepie vaults and receive proportional shares representing their   ownership.
   Each vault can be paired with a trading agent, either in-house or externally sourced(e.g.           from Bankr Agent Place), which analyzes market and onchain data, proposes trades, and               operates within predefined risk mandates set at pie creation and visible to all contributors.
-   🔗 [GitHub](https://github.com/0xebby/Tradepie/tree/feat/tradepie-mvp) | 🚀 [Live Demo                 (Testnet)](https://boney-yard.netlify.app/](https://tradepie.netlify.app/))
+    🔗 [GitHub](https://github.com/0xebby/Tradepie/tree/feat/tradepie-mvp) | 🚀 [Live Demo                 (Testnet)](https://boney-yard.netlify.app/](https://tradepie.netlify.app/))
 
 - ⚒️ Speedrun Ethereum
   
   Built full-stack Ethereum applications through hands-on challenges covering DEXs, lending,          stablecoins, prediction markets, and ZK voting.
-  🔗 [Builder Profile]
+   🔗 [Builder Profile]
 
 - 🛡️ OpenZeppelin Ethernaut
   
