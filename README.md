@@ -13,8 +13,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAAAA?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Frameworks I Use ##
-![Foundry](https://img.shields.io/badge/Foundry-purple?style=for-the-badge) ![Slither](https://img.shields.io/badge/Slither-8A2BE2?style=for-the-badge&logo=python&logoColor=white) ![Aderyn](https://img.shields.io/badge/Aderyn-DEA584?style=for-the-badge&logo=rust&logoColor=black) ![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white) ![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-purple?style=for-the-badge) ![Slither](https://img.shields.io/badge/Slither-8A2BE2?style=for-the-badge&logo=python&logoColor=white) ![Aderyn](https://img.shields.io/badge/Aderyn-DEA584?style=for-the-badge&logo=rust&logoColor=black) ![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white)
 
 ## Automation(AI) Tools I Use ##
 ![Claude](https://img.shields.io/badge/Claude%20Opus%205-D97757?style=for-the-badge&logo=claude&logoColor=white)
