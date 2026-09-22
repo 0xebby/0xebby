@@ -1,4 +1,4 @@
-## Ebby ##
+## Hi!, I'm Mystic! ##
 
 ## About Me ##
 
