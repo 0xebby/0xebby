@@ -83,11 +83,11 @@
 - RUNTIME NYC ONLINE by Bankrbot 2026 - Built Tradepie. Full project description and   live product link
   [above](https://github.com/0xebby#-projects--proof-of-work)
 
-- CRYPTO WORLD'S FAIR by COLOSSEUM, 2026 - Built Boneyard on the Continuity Track
+- CRYPTO WORLD'S FAIR by COLOSSEUM, 2026 - Building Tradepie on the Continuity Track
   [Project Page](https://colosseum.com/arena/projects/boneyard)
 
-- OPEN HOUSE HACH by ARBITRUM 2026 - Built Boneyard on the Continuity Track
-  [Project Page](https://arbitrum-singapore.hackquest.io/projects/boneyard)
+- OPEN HOUSE HACH by ARBITRUM 2026 - Building Tradepie on the Continuity Track
+  [Project Page](https://arbitrum-singapore.hackquest.io/projects/Tradepie)
   
 ## reach out let's build cool stuff! ##
 
