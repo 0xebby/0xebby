@@ -66,6 +66,15 @@
   Completed the Foundry Fundamentals, Advanced Foundry, and Web3 Wallet Security       courses.
    🔗 [Cyfrin Profile](https://profiles.cyfrin.io/u/ebby)
 
+##  Open Source Projects and Contributions: ##
+
+  - ⚙️ Awesome-solidity-smart-contracts-skills
+
+  I built Awesome-solidity-smart-contracts-skills repo for writing smart contracts with any ai agent:
+  A simple way of giving coding agents institutionalized smart-contract knowledge before they write or contribute to your smart contracts.
+  All skills distilled from battle-tested protocol contracts like **aave, solady, open-zeppllin, uniswap** etc and Trusted web3 learning platforms like **cyfrin updraft** and finally the og       **_mastering ethereum_** textbook by Gavin Woods.
+   🔗 [GitHub Repo](https://github.com/mystic0xx/awesome-solidity-smart-contracts-skills/tree/main)
+
 ## 🏆 Hackathons & Awards ##
 
 - ETHGLOBAL ONLINE 2026 - Built Boneyard on the Continuity Track
