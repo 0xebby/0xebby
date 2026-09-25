@@ -68,7 +68,7 @@
 
 ##  Open Source Projects and Contributions: ##
 
-  - ⚙️ Awesome-solidity-smart-contracts-skills
+  - ⚙️ Awesome-solidity-smart-contracts-skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
   I built Awesome-solidity-smart-contracts-skills repo for writing smart contracts with any ai agent:
   A simple way of giving coding agents institutionalized smart-contract knowledge before they write or contribute to your smart contracts.
